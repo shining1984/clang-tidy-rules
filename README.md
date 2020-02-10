@@ -1,0 +1,5 @@
+[chromium](https://github.com/chromium/chromium)
+[clang](https://github.com/llvm-mirror/clang)
+[llvm](https://github.com/llvm-mirror/llvm)
+[openarkcompiler](https://gitee.com/harmonyos/OpenArkCompiler)
+[verona](https://github.com/microsoft/verona)
