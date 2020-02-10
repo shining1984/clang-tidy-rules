@@ -1,6 +1,6 @@
-#clang-tidy-rules  
+# clang-tidy-rules  
 
-##已收集项目
+## 已收集项目
 
 1、[chromium](https://github.com/chromium/chromium)
 
