@@ -10,4 +10,6 @@
 
 4、[openarkcompiler](https://gitee.com/harmonyos/OpenArkCompiler)
 
-5、[verona](https://github.com/microsoft/verona)
+5、[v8](https://github.com/v8/v8)
+
+6、[verona](https://github.com/microsoft/verona)
